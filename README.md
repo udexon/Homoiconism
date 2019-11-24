@@ -6,9 +6,11 @@ https://en.wikipedia.org/wiki/Homoiconicity
 
 While Wikipedia and the few literature briefly explored some issues concerning homoiconicity, we believe they can be addressed systematically using ISYA.
 
-eval() vs. others??
+:: eval() vs. others??
 
 *ANY*
+
+:: quote minimum text concerning topic to be discussed (whatever concerned homoiconicity) to that readers can follow and look up.
 
 We shall illustrate our work with some code examples first, before delving into further theoretical discussions.
 
