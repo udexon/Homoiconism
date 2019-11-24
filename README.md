@@ -16,7 +16,13 @@ We shall illustrate our work with some code examples first, before delving into 
 
 Although the term _homoiconic_ refers to the property of a programming language where code and data are represented using the same form (same="homo", form="icon"), the crux of the matter is _the ability of a program to analyze and process the code of another program (including itself) written in the same programming language_, although this motivation might not have been highlighted in existing literature.
 
+Figures 1 and 2 show portions of code from `SensorHelper.java` from:
+
 https://github.com/udexon/ReactiveSensors/blob/RxJava2.x/app/src/main/java/com/github/pwittchen/reactivesensors/app/SensorHelper.java
+
+Phos is a stack machine shell (smashlet) that employs Forth like Reverse Polish Notation, as shown in line 43 and 45 of figure 2.
+
+https://github.com/udexon/ReactiveSensors/blob/RxJava2.x/app/src/main/java/com/udexon/smashlet/Phos.java
 
 <p align="center"><a name="fig_1">Figure 1</a>
 <img src="https://github.com/udexon/Homoiconism/blob/master/ReactiveSensors/import_Phos_2.png" width=700>
