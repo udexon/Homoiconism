@@ -10,3 +10,5 @@ Conventional monolingual programming (CMLP) usually requires the programmer to u
 To borrow an analogy from supply chain model, homoiconic programming (HIP) provides a common downstream interface, in the form of Forth like Reverse Polish Notation, to the host programming language, which constitutes the upstream modules.
 
 https://github.com/udexon/Homoiconism/blob/master/README.md
+
+Forth is a unique programming language which celebrated its 50th anniversary in 2018. While the mainstream of the Forth programmers community do not yet consider HIP a priority as it is novel,
