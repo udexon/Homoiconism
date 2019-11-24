@@ -14,7 +14,7 @@ While Wikipedia and the few literature briefly explored some issues concerning h
 
 We shall illustrate our work with some code examples first, before delving into further theoretical discussions.
 
-Although the term homoiconic refers to the property of a programming language where code and data are represented using the same form (same="homo", form="icon"), the crux of the matter is the ability of a program to analyze and process the code of another program (including itself) written in the same programming language, although this motivation might not have been highlighted in the literature.
+Although the term _homoiconic_ refers to the property of a programming language where code and data are represented using the same form (same="homo", form="icon"), the crux of the matter is the ability of a program to analyze and process the code of another program (including itself) written in the same programming language, although this motivation might not have been highlighted in the literature.
 
 https://github.com/udexon/ReactiveSensors/blob/RxJava2.x/app/src/main/java/com/github/pwittchen/reactivesensors/app/SensorHelper.java
 
