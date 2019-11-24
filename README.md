@@ -75,7 +75,8 @@ In summary, the pseudo code for line 45 is:
 
 ```
 remove all elements on stack 
-    ( this is necessary as createSubscription() is called every time a sensor value is updated. )
+    ( this is necessary as createSubscription() is called every time a sensor value 
+    is updated. )
     
 check if key t (time) exists in tree T
     if not, branch forward by 3 tokens
