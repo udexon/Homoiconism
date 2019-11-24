@@ -55,15 +55,15 @@ Words with a colon suffix are function words that maps to functions in the host 
 <img src="https://github.com/udexon/Homoiconism/blob/master/ReactiveSensors/Phos_rae.png" width=500>
 
 
-|   |   |   |   |   |
+| Word  | Definition  |   |   |   |
 |---|---|---|---|---|
-| `rae:`  |   |   |   |   |
-| `tk:`   |   |   |   |   |
-| `bzk:`  |   |   |   |   |
-| `tr:`   |   |   |   |   |
-| `now_sec`   |   |   |   |   |
-| `dup:`   |   |   |   |   |
-| `t:`  |   |   |   |   |
-| `fsub:`   |   |   |   |   |
+| `rae:`  | `S.removeAllElements()`  |   |   |   |
+| `t tk:`   | if key `t` exists  |   |   |   |
+| `k bzk:`  | branch forward by `k` tokens if zero  |   |   |   |
+| `t tr:`   | read from key `t`  |   |   |   |
+| `now_sec`   | alias as defined in line 43  |   |   |   |
+| `dup:`   | duplicate top of stack  |   |   |   |
+| `x v t:`  | store `x` in variable `v`  |   |   |   |
+| `fsub:`   | float substract  |   |   |   |
 
        
