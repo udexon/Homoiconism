@@ -55,3 +55,15 @@ Words with a colon suffix are function words that maps to functions in the host 
 <img src="https://github.com/udexon/Homoiconism/blob/master/ReactiveSensors/Phos_rae.png" width=500>
 
 
+|   |   |   |   |   |
+|---|---|---|---|---|
+| `rae:`  |   |   |   |   |
+| `tk:`   |   |   |   |   |
+| `bzk:`  |   |   |   |   |
+| `tr:`   |   |   |   |   |
+| `now_sec`   |   |   |   |   |
+| `dup:`   |   |   |   |   |
+| `t:`  |   |   |   |   |
+| `fsub:`   |   |   |   |   |
+
+       
