@@ -15,4 +15,8 @@ Forth is a unique programming language which celebrated its 50th anniversary in 
 
 As homoiconic programming (HIP) consists of upstream (host programming language, e.g. PHP, JavaScript, Java etc.) and downstream (Phos Smashlet), they are targeted at senior programmers (upstream) and junior or novice programmers (downstream). In our humble opinion, this is a first in the history of computing, and will bring many huge benefits.
 
+For senior programmers, porting Phos Smashlet to a new host programming language is roughly a full day work (8 hours). It only has to been done once for each programming language, and everyone else can benefit from it, by using only Phos RPN afterwards.
+
+For junior or novice programmers, they only need to learn one programming language -- Phos. Further RPN will lead to a more fundamental discipline as it can be used to study and analyze mathematical equations.
+
 Overcoming ageism by adding value to RPN with mathematics, for young to old.
