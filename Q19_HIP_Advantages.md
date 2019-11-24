@@ -7,4 +7,4 @@ Although we may not be able to prove that ageism in the programming profession i
 
 Conventional monolingual programming (CMLP) usually requires the programmer to use and be familiar with the programming language concerned. However, programming languages are usually incomptible with each other. As such, when a major programming language replaces another every five years or so, ageism or age discrimination in the programming profession is more brutal than other industries, which have already matured and and produced more humane organizational transitions. 
 
-Homoiconic programming (HIP) 
+To borrow an analogy from supply chain model, homoiconic programming (HIP) provides a common downstream interface, in the form of Forth like Reverse Polish Notation, to the host programming language, which constitutes the upstream modules.
