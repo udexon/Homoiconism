@@ -20,7 +20,7 @@ Figures 1 and 2 show portions of code from `SensorHelper.java` from:
 
 https://github.com/udexon/ReactiveSensors/blob/RxJava2.x/app/src/main/java/com/github/pwittchen/reactivesensors/app/SensorHelper.java
 
-Phos is a stack machine shell (smashlet) that employs Forth like Reverse Polish Notation, as shown in line 43 and 45 of figure 2.
+Phos is a _stack machine shell (smashlet)_ that employs Forth like Reverse Polish Notation, as shown in line 43 and 45 of figure 2.
 
 https://github.com/udexon/ReactiveSensors/blob/RxJava2.x/app/src/main/java/com/udexon/smashlet/Phos.java
 
@@ -30,3 +30,10 @@ https://github.com/udexon/ReactiveSensors/blob/RxJava2.x/app/src/main/java/com/u
 <p align="center"><a name="fig_2">Figure 2</a>
 <img src="https://github.com/udexon/Homoiconism/blob/master/ReactiveSensors/Phos_F_2.png" width=700>
 
+```
+Phos.F(": now_sec now: colon: explode:   2 ia: ;");
+
+            Phos.F("rae: t tk:  3 bzk:  " +
+                    "t_exists_retrieve_t t tr: now_sec dup: t t:  fsub:");
+                    ```
+`Phos.F()` takes a space delimited string
