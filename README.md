@@ -68,3 +68,22 @@ Words with a colon suffix are function words that maps to functions in the host 
 
        
 The complete definitions for Phos function words are given in `Phos.java`.
+
+Just like Forth, the result of an operation is pushed back on to the stack.
+
+In summary, the pseudo code for line 45 is:
+
+```
+remove all elements on stack 
+    ( this is necessary as createSubscription() is called every time a sensor value is updated. )
+    
+check if key t (time) exists in tree T
+    if not, branch forward by 3 tokens
+    if t exists, read t and store the result on stack
+    
+get current time, store it in T['t']
+
+substract previous value of T['t'] from current time
+
+store the result on stack, to be read by line 49
+```
