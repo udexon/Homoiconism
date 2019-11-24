@@ -13,6 +13,6 @@ https://github.com/udexon/Homoiconism/blob/master/README.md
 
 Forth is a unique programming language which celebrated its 50th anniversary in 2018. While the mainstream of the Forth programmers community do not yet consider HIP a priority as it is novel, the compatibility of Phos and Forth will guarantee Phos ability in overcoming ageism in programming, given the long history of Forth.
 
-As homoiconic programming (HIP) consists of upstream (host programming language, e.g. PHP, JavaScript, Java etc.) and downstream (Phos Smashlet), they are targeted at senior programmers (upstream) and junior or novice programmers (downstream).
+As homoiconic programming (HIP) consists of upstream (host programming language, e.g. PHP, JavaScript, Java etc.) and downstream (Phos Smashlet), they are targeted at senior programmers (upstream) and junior or novice programmers (downstream). In our humble opinion, this is a first in the history of computing, and will bring many huge benefits.
 
 Overcoming ageism by adding value to RPN with mathematics, for young to old.
