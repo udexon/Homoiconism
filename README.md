@@ -1,7 +1,6 @@
-# Homoiconism
-Homoiconism
+## Homoiconism
 
-Homoiconism refers to the procedures, analyses and related topics where non-homoiconic program code is transformed into homoiconic form. We believe we have invented a novel, generalized procedure for transforming programs written in ***ANY known programming language*** into a Forth like Reverse Polish Notation syntax, known as the ***Inverse Shunting Yard Algorithm (ISYA)***, thus making homoiconism accessible to a much wider audience than previously possible.
+We coin the term "homoiconism" to refer to the procedures, analyses and related topics where non-homoiconic program code is transformed into homoiconic form, as this subject has not been investigated extensively elsewhere. We believe we have invented a novel, generalized procedure for transforming programs written in ***ANY known programming language*** into a Forth like Reverse Polish Notation syntax, known as the ***Inverse Shunting Yard Algorithm (ISYA)***, thus making homoiconism accessible to a much wider audience than previously possible.
 
 https://en.wikipedia.org/wiki/Homoiconicity
 
