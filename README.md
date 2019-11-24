@@ -33,9 +33,24 @@ https://github.com/udexon/ReactiveSensors/blob/RxJava2.x/app/src/main/java/com/u
 ```
 Phos.F(": now_sec now: colon: explode:   2 ia: ;");
 
-            Phos.F("rae: t tk:  3 bzk:  " +
-                    "t_exists_retrieve_t t tr: now_sec dup: t t:  fsub:");
+Phos.F("rae: t tk:  3 bzk:  " +
+       "t_exists_retrieve_t t tr: now_sec dup: t t:  fsub:");
                     
 ```
 
 `Phos.F()` takes a space delimited string, pushes non-function tokens on to the stack, and execute functions in the host programming language (in this case, Java) mapped by fuction words (tokens). The previous sentence basically summarizes the operations of a stack machine shell (smashlet). Due to its simplicity, it can be implemented in all known programming languages. We have successfully implemented Phos Smashlet in PHP, JavaScript and Java.
+
+In line 45, the Phos statement is:
+
+```
+rae: t tk:  3 bzk:  
+            t_exists_retrieve_t t tr: 
+            now_sec dup: t t:  fsub:
+```
+
+Words with a colon suffix are function words that maps to functions in the host programming language. For example, `rae:` maps to `S.removeAllElements()` in line 1894, as shown in figure 3:
+
+<p align="center"><a name="fig_3">Figure 3</a>
+<img src="https://github.com/udexon/Homoiconism/blob/master/ReactiveSensors/Phos_rae.png" width=500>
+
+
