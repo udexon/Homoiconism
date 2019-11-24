@@ -14,9 +14,9 @@ We shall illustrate our work with some code examples first, before delving into 
 
 https://github.com/udexon/ReactiveSensors/blob/RxJava2.x/app/src/main/java/com/github/pwittchen/reactivesensors/app/SensorHelper.java
 
-<a name="fig_1">Figure 1</a>
+<p align="center"><a name="fig_1">Figure 1</a>
 <img src="https://github.com/udexon/Homoiconism/blob/master/ReactiveSensors/import_Phos_2.png" width=700>
 
-<a name="fig_2">Figure 2</a>
+<p align="center"><a name="fig_2">Figure 2</a>
 <img src="https://github.com/udexon/Homoiconism/blob/master/ReactiveSensors/Phos_F_2.png" width=700>
 
