@@ -67,3 +67,4 @@ Words with a colon suffix are function words that maps to functions in the host 
 | `fsub:`   | float substract  |   |   |   |
 
        
+The complete definitions for Phos function words are given in `Phos.java`.
