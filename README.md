@@ -50,7 +50,7 @@ rae: t tk:  3 bzk:
 
 Words with a colon suffix are function words that maps to functions in the host programming language. For example, `rae:` maps to `S.removeAllElements()` in line 1894, as shown in figure 3:
 
-<p align="center"><a name="fig_3">Figure 3</a>
+<p align="center"><a name="fig_3">Figure 3</a></p>
        
 <img src="https://github.com/udexon/Homoiconism/blob/master/ReactiveSensors/Phos_rae.png" width=500>
 
