@@ -37,4 +37,6 @@ https://www.sympy.org/en/index.html
 
 http://www.sagemath.org/
 
-These software lead to Lisp. Understanding Lisp leads to RPN, Forth, Phos ....
+These software lead to / built with Lisp. Has gaps to other programming languages.
+
+Understanding Lisp leads to RPN, Forth, Phos .... Phos eliminates gaps between programming languages and mathematics. 
