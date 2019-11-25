@@ -24,4 +24,17 @@ For senior programmers, porting Phos Smashlet to a new host programming language
 
 For junior or novice programmers, they only need to learn one programming language -- Phos. Further RPN will lead to a more fundamental discipline as it can be used to study and analyze mathematical equations.
 
+
+#### 3. Unifying Programming and Mathematics
+
 Overcoming ageism by adding value to RPN with mathematics, for young to old.
+
+:: As introduction to Homogotchi -- game for physics and robotics for all ages, all disciplines
+
+https://www.cl.cam.ac.uk/~jrh13/hol-light/
+
+https://www.sympy.org/en/index.html
+
+http://www.sagemath.org/
+
+These software lead to Lisp. Understanding Lisp leads to RPN, Forth, Phos ....
