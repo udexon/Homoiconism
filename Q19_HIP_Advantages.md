@@ -42,3 +42,5 @@ These software lead to / built with Lisp. Has gaps to other programming language
 Understanding Lisp leads to RPN, Forth, Phos .... Phos eliminates gaps between programming languages and mathematics. 
 
 HP calculator and its predecessor, Italian Olivetti? -- RPN, not marketed as a "computer", became popular amongst engineers, but fail in transition to personal computer? Why? Because of Windows and Linux? i386 rose?
+
+https://www.massmadesoul.com/features/divisumma18
