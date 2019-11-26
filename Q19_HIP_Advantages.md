@@ -54,3 +54,5 @@ http://www.sagemath.org/
 https://groups.google.com/forum/#!forum/sage-devel
 
 These problems and the solutions provided by Phos, do not just concern computer programming, but the teaching of learning of mathematics in the next decade -- perhaps the most critical decade of human civilization, as we expect technological singularity to emerge.
+
+##### 3.1
