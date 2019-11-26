@@ -58,3 +58,9 @@ These problems and the solutions provided by Phos, do not just concern computer 
 ##### 3.1 New Programming Languages Replacing Old Ones
 
 The computing industry has undergone a long period of rapid expansion, so much so that various critical problems, such as those caused by too many new programming languages, do not receive sufficient attention.
+
+Consider:
+
+- Can SymPy be deployed in Android games?
+
+https://while.io/mathstep
