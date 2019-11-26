@@ -64,3 +64,9 @@ Consider:
 - Can SymPy be deployed in Android games?
 
 https://while.io/mathstep
+
++ Unfortunately my Android application was written in Java, so there were a couple of things I could do at that point:
+
+    - Port the Python library to Java
+    - Embed Python in the app
+    - Build a REST API in Python that talks to the app
