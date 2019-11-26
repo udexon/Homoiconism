@@ -72,3 +72,5 @@ https://while.io/mathstep
     - Build a REST API in Python that talks to the app
 
 Homogotchi. Imagine the productivity improvement ....
+
+Explain Homogotchi first, then relate to education of mathematics.
