@@ -70,3 +70,5 @@ https://while.io/mathstep
     - Port the Python library to Java
     - Embed Python in the app
     - Build a REST API in Python that talks to the app
+
+Homogotchi. Imagine the productivity improvement ....
