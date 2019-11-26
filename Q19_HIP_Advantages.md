@@ -55,4 +55,6 @@ https://groups.google.com/forum/#!forum/sage-devel
 
 These problems and the solutions provided by Phos, do not just concern computer programming, but the teaching of learning of mathematics in the next decade -- perhaps the most critical decade of human civilization, as we expect technological singularity to emerge.
 
-##### 3.1
+##### 3.1 New Programming Languages Replacing Old Ones
+
+The computing industry has undergone a long period of rapid expansion, so much so that various critical problems, such as those caused by too many new programming languages, do not receive sufficient attention.
