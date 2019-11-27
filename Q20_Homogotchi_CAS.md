@@ -44,6 +44,8 @@ Homogotchi is designed to overcome several of the critical bottlenecks in softwa
 
 Describe difference of Android Reactive Sensors using Android Studio vs. using Phos.
 
+Relate RPN to Logo at beginning of article. Then relate RPN to CAS LISP in general.
+
 Compare to Forth footprint. 12352 bytes for jonesforth!! Footprint, complicated configuration and programming model.
 
 
