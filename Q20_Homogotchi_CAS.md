@@ -37,5 +37,7 @@ Q20 should address only (1). Open more questions for (2) and (3).
 
 Homo in Homogotchi refers to homoiconic programming, the property that a program written in the Phos Programming Language can be processed and modified by another program written in the Phos Programming Language. We will discuss the benefits of homoiconic programming in ....
 
+Homogotchi is designed to overcome one of the critical bottlenecks in software development -- increasingly greater barriers of entry to develop applications for mobile devices. Compare to Forth footprint. 32k for jonesforth?
+
 
 leave it to another discussion to
