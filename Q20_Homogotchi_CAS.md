@@ -27,6 +27,12 @@ This should be the ultimate form of Programming. It was invented just about 50 y
 
 Although the Logo Programming Language is officially classified as a member of the LISP family, we shall  explore the relationships of LISP and Reverse Polish Notation and Stack Machine, from which Forth and Phos are derived. This is actually a very interesting question to investigate, as it involves psychology of learners of programming languages as wel as some of the most advanced aspects of programming languages.
 
+Not only does this question involve some crucial theoretical aspects of programming languages, it also has the potential of creating an alternative ecosystem to cloud computing, by enabling every mobile device as a server or peer to peer node, as well as being the potential solution to true, human level artificial intelligence.
+
+1. LISP RPN theories
+2. alternative to cloud computing / introduce Datong Token?
+3. human level artificial intelligence
+
 Homo in Homogotchi refers to homoiconic programming, the property that a program written in the Phos Programming Language can be processed and modified by another program written in the Phos Programming Language. We will discuss the benefits of homoiconic programming in ....
 
 
