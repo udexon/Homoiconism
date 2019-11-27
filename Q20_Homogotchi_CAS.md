@@ -39,6 +39,8 @@ Homo in Homogotchi refers to homoiconic programming, the property that a program
 
 Since LISP was mentioned, describe its relationships to RPN first. then explain rpn role in smashlet. then rpn and lisp relationships to computer algebra system and mathematics.
 
+Compare Turtle graphics logo shell and Smashlet?
+
 Homogotchi is designed to overcome several of the critical bottlenecks in software development: 
 - increasingly greater barriers of entry to develop applications for mobile devices, 
 - GBs of compiler tools, 
