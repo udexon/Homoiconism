@@ -5,21 +5,25 @@ Homogotchi, is a virtual chick feeding game, aimed to be an extension of the leg
 
 What can we achieve with a virtual chick feeding game on Android devices?
 
+<!--
 :: Need to explain goals that readers can understand like this. 
+-->
 
 The free software movement is an education Revolution which produced talents like Linus Torvalds in the thousands, by letting young talents learn directly from Torvalds via the Linux kernel development.
 
 What if we can produce the likes of Dijkstra or Euler in the thousands, through a systematic training and educational program?
 
-Need educationists to collaborate to define goals and syllabus, based on homoiconism. 
+<!--
+Need educationists to collaborate to define goals and syllabus, based on homoiconism.
+-->
 
-Imagine teenage students can learn partial differential equations using notations as simple as Turtle Graphics Logo Programming Language.
++ Imagine teenage students can learn partial differential equations using notations as simple as Turtle Graphics Logo Programming Language.
 
-https://turtleacademy.com/
+- https://turtleacademy.com/
 
-Imagine programming Android sensors with Python SymPy is as simple as Turtle Graphics Logo Programming Language.
++ Imagine programming Android sensors with Python SymPy is as simple as Turtle Graphics Logo Programming Language.
 
-Imagine millions of students worldwide engage in collaborative Programming for an online game, with virtual reality and robotics, each contributing one line or a few lines of code similar to Turtle Graphics Logo Programming Language.
++ Imagine millions of students worldwide engage in collaborative Programming for an online game, with virtual reality and robotics, each contributing one line or a few lines of code similar to Turtle Graphics Logo Programming Language.
 
 This should be the ultimate form of Programming. It was invented just about 50 years ago as the Forth programming language. Why it has not been more popular is a topic which we shall discuss elsewhere. 
 
