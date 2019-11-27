@@ -29,7 +29,7 @@ Although the Logo Programming Language is officially classified as a member of t
 
 Not only does this question involve some crucial theoretical aspects of programming languages, it also has the potential of creating an alternative ecosystem to cloud computing, by enabling every mobile device as a server or peer to peer node, as well as being the potential solution to true, human level artificial intelligence.
 
-1. LISP RPN theories
+1. LISP RPN theories, bridge to mathematics
 2. alternative to cloud computing / introduce Datong Token?
 3. human level artificial intelligence
 
