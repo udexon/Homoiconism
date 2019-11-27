@@ -25,8 +25,9 @@ Need educationists to collaborate to define goals and syllabus, based on homoico
 
 This should be the ultimate form of Programming. It was invented just about 50 years ago as the Forth programming language. Why it has not been more popular is a topic which we shall discuss elsewhere. 
 
-Although the Logo Programming Language is officially classified as a member of the LISP family, we shall leave it to another discussion to explore the relationships of LISP and Reverse Polish Notation and Stack Machine, from which Forth and Phos are derived. 
+Although the Logo Programming Language is officially classified as a member of the LISP family, we shall  explore the relationships of LISP and Reverse Polish Notation and Stack Machine, from which Forth and Phos are derived. This is actually a very interesting question to investigate, as it involves psychology of learners of programming languages as wel as some of the most advanced aspects of programming languages.
 
 Homo in Homogotchi refers to homoiconic programming, the property that a program written in the Phos Programming Language can be processed and modified by another program written in the Phos Programming Language. We will discuss the benefits of homoiconic programming in ....
 
 
+leave it to another discussion to
