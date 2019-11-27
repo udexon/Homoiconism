@@ -41,6 +41,7 @@ Homogotchi is designed to overcome several of the critical bottlenecks in softwa
 - increasingly greater barriers of entry to develop applications for mobile devices, 
 - GBs of compiler tools, 
 - over-complicated configurations and programming models etc. 
+- too many games, using too many different programming languages and frameworks, doing more or less similar things.
 
 Describe difference of Android Reactive Sensors using Android Studio vs. using Phos.
 
