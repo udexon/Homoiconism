@@ -33,6 +33,8 @@ Not only does this question involve some crucial theoretical aspects of programm
 2. alternative to cloud computing / introduce Datong Token?
 3. human level artificial intelligence
 
+Q20 should address only (1). Open more questions for (2) and (3).
+
 Homo in Homogotchi refers to homoiconic programming, the property that a program written in the Phos Programming Language can be processed and modified by another program written in the Phos Programming Language. We will discuss the benefits of homoiconic programming in ....
 
 
