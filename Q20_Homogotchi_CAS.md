@@ -37,6 +37,8 @@ Q20 should address only (1). Open more questions for (2) and (3).
 
 Homo in Homogotchi refers to homoiconic programming, the property that a program written in the Phos Programming Language can be processed and modified by another program written in the Phos Programming Language. We will discuss the benefits of homoiconic programming in ....
 
+Since LISP was mentioned, describe its relationships to RPN first. then explain rpn role in smashlet. then rpn and lisp relationships to computer algebra system and mathematics.
+
 Homogotchi is designed to overcome several of the critical bottlenecks in software development: 
 - increasingly greater barriers of entry to develop applications for mobile devices, 
 - GBs of compiler tools, 
