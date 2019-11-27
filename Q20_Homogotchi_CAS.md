@@ -42,6 +42,8 @@ Homogotchi is designed to overcome several of the critical bottlenecks in softwa
 - GBs of compiler tools, 
 - over-complicated configurations and programming models etc. 
 
+Describe difference of Android Reactive Sensors using Android Studio vs. using Phos.
+
 Compare to Forth footprint. 12352 bytes for jonesforth!! Footprint, complicated configuration and programming model.
 
 
