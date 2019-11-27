@@ -18,7 +18,6 @@ Need educationists to collaborate to define goals and syllabus, based on homoico
 -->
 
 + Imagine teenage students can learn partial differential equations using notations as simple as Turtle Graphics Logo Programming Language.
-
 - https://turtleacademy.com/
 
 + Imagine programming Android sensors with Python SymPy is as simple as Turtle Graphics Logo Programming Language.
