@@ -3,13 +3,13 @@
 
 Homogotchi, is a virtual chick feeding game, aimed to be an extension of the legendary classic Tamagotchi, based on on homoiconic programming, hence the name.
 
-What can we achieve with a virtual chick feeding game on Android devices?
+- What can we achieve with a virtual chick feeding game on Android devices?
 
 <!--
 :: Need to explain goals that readers can understand like this. 
 -->
 
-The free software movement is an education Revolution which produced talents like Linus Torvalds in the thousands, by letting young talents learn directly from Torvalds via the Linux kernel development.
+The free software movement is effectively an _education revolution_ which produced talents like Linus Torvalds in the thousands, by letting young talents learn directly from Torvalds via the Linux kernel development, and spin-off projects.
 
 What if we can produce the likes of Dijkstra or Euler in the thousands, through a systematic training and educational program?
 
