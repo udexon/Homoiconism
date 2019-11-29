@@ -4,4 +4,6 @@ The Beijing Olympics in 2008 and subsequent achievements by China in front of th
 
 Intergenerational House ownership as sign of rich poor gap.
 
-Muslim countries are the most insular to foreign influences needed for education reform.
+Muslim countries are the most insular to foreign influences needed for education reform: compare Malaysia universities with Singapore.
+
+
