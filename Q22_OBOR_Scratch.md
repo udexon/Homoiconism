@@ -12,6 +12,10 @@ It is rather ironic that the non-Latin programming language problem has lingered
 
 As such, the solution we propose in this project, the Phos programming language, an extension of the Forth programming language, has tremenduous significance due to the factors described above.
 
+- What is the Phos programming language？
+
+Phos is a stack based programming language syntactically compatible to Forth, implemented as a stack machine shell (smashlet) within a high level host programming language, such as Java, JavaScript, PHP etc., enabling a supply chain model for programming languages, i.e. host programming language as upstream module, Phos as downstream module.
+
 :: link to Phos; then compare visual block schemes Scratch Blockly etc. Emphasize Google MIT heavy weight but have limitations
 
 Intergenerational House ownership as sign of rich poor gap.
