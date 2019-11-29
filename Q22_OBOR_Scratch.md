@@ -12,7 +12,7 @@ It is rather ironic that the non-Latin programming language problem has lingered
 
 As such, the solution we propose in this project, the Phos programming language, an extension of the Forth programming language, has tremenduous significance due to the factors described above.
 
-
+:: link to Phos; then compare visual block schemes Scratch Blockly etc. Emphasize Google MIT heavy weight but have limitations
 
 Intergenerational House ownership as sign of rich poor gap.
 
