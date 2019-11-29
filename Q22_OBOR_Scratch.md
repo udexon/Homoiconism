@@ -8,9 +8,11 @@ _As MIT Scratch programming language, a visual, block-based scheme designed to t
 
 The factors involved in finding solutions for innovations in programming languages involving non-Latin alphabets concern some very fundamental theories in software engineering and mathematics, which are in a very small niche in computer science, yet actually affects the majority of the world population, i.e. those whose mother tongues are not Latin alphabets.
 
-It is rather ironic that the non-Latin programming language problem has lingered on for over half a century without viable solutions, starting from FORTRAN, the first huaman readable programming language to be run on the first commercial computers, the IBM 704 mainframe. It is also ironic that, China, Japan and Korea, despite their successes in other fields in science and engineering, have not produced viable solutions for this problem. This further illustrates the complications involved in finding the solutions for non-Latin human natural languages.
+It is rather ironic that the non-Latin programming language problem has lingered on for over half a century without viable solutions, starting from FORTRAN, the first human readable programming language to be run on the first commercial computers, the IBM 704 mainframe. It is also ironic that, China, Japan and Korea, despite their successes in other fields in science and engineering, have not produced viable solutions for this problem. This further illustrates the complications involved in finding the solutions for non-Latin human natural languages.
 
-especially 
+As such, the solution we propose in this project, the Phos programming language, an extension of the Forth programming language, has tremenduous significance due to the factors described above.
+
+
 
 Intergenerational House ownership as sign of rich poor gap.
 
@@ -20,8 +22,6 @@ Muslim countries are the most insular to foreign influences needed for education
 
 Phos for Malaysia, multiligual hub. One Belt One Road. Anti-Chinese factions in Malaysia ...
 
-in front of the eyes of the world
-
-considered
+in front of the eyes of the world considered especially 
 
 ### From China's One Belt One Road Program to MIT Scratch Programming Language: Addressing Challenges in Global Development from 2020 to 2030 vai Educational Innovations in Programming and Mathematics
