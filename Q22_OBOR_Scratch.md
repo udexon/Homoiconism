@@ -1,6 +1,6 @@
 ### From MIT Scratch Programming Language to China's One Belt One Road Program: Addressing Challenges in Global Development from 2020 to 2030 via Educational Innovations in Computer Programming and Mathematics
 
-### #GOQ_Q23
+### #GOQ_Q22
 - What are the major challenges for developing countries from 2020 to 2030 and how do we address them?
 
 The Beijing Olympics in 2008 and subsequent world class achievements by China would be regarded as the clearest signs of a new millennium. Consequently, these boosted confidence in the peoples and the governments of many developing countries, further consolidated by China's One Road One Belt Program (OBOR). Android mobile phones, which by default are made in China, and the new 5G services spearheaded by Huawei, have additionally highlighted Chinese talents and expertise in the area of information and communications technologies.
@@ -20,6 +20,12 @@ As such, the solution we propose in this project, the Phos programming language,
 - What is the Phos programming language？
 
 Phos is a stack based programming language syntactically compatible to Forth, implemented as a stack machine shell (smashlet) within a high level host programming language, such as Java, JavaScript, PHP etc., enabling a supply chain model for programming languages, i.e. the host programming language as upstream module, Phos as downstream module.
+
+
+### #GOQ_Q24
+- How does the Phos programming language address the challenges of non-Latin programming languages?
+
+In Forth and Phos, there is an alias mechanism called "colon definition", where a new word (function name) can be used as an alias to another word (function name) or a sequence of words (word list, sequence of functions). This facility is usually not available in most high level programming languages. As such, Unicode characters or string can be used as Phos words (function name), while retaining the original definition in Latin. Consequently, multiple colon definition words in multiple human natural languages can be used in parallel, thus helping non-Latin programmers to implement word set (function libraries) in their own mother tongue, without losing functionalities in the original Latin colon definition words.
 
 :: link to Phos; then compare visual block schemes Scratch Blockly etc. Emphasize Google MIT heavy weight but have limitations
 
