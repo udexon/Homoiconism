@@ -8,6 +8,8 @@ _As MIT Scratch programming language, a visual, block-based scheme designed to t
 
 The factors involved in finding solutions for innovations in programming languages involving non-Latin alphabets concern some very fundamental theories in software engineering and mathematics, which are in a very small niche in computer science, yet actually affects the majority of the world population, i.e. those whose mother tongues are not Latin alphabets.
 
+It is rather ironic that the non-Latin programming language problem has lingered on for over half a century without viable solutions, starting from FORTRAN, the first huaman readable programming language to be run on the first commercial computers, the IBM 704 mainframe. It is also ironic that, China, Japan and Korea, despite their successes in other fields in science and engineering, have not produced viable solutions for this problem. This further illustrates the complications involved in finding the solutions for non-Latin human natural languages.
+
 especially 
 
 Intergenerational House ownership as sign of rich poor gap.
