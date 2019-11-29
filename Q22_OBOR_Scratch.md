@@ -4,7 +4,7 @@ The Beijing Olympics in 2008 and subsequent world class achievements by China wo
 
 However, as highlighted by various participant nations in the One Belt One Road (OBOR) initiative, making sure developing countries are not left behind again in a new round of industrial and technological revolution remains a crucial challenge. The most critical of these challenges would be the drawback in education for computer programming and mathematics, which forms the basis for scientific and engineering advancement.
 
-As MIT Scratch programming language, a visual, block-based scheme designed to teach programming to children, has received tremendous success in the developed regions in the world, this further contrasted the lagging behind in programming education in developing countries, whose mother tongues are not based on Latin alphabets.
+_As MIT Scratch programming language, a visual, block-based scheme designed to teach programming to children, has received tremendous success in the developed regions in the world, this further contrasted the lagging behind in programming education in developing countries, whose mother tongues are not based on Latin alphabets._
 
 Intergenerational House ownership as sign of rich poor gap.
 
