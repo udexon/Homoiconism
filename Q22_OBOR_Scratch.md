@@ -1,5 +1,8 @@
 ### From MIT Scratch Programming Language to China's One Belt One Road Program: Addressing Challenges in Global Development from 2020 to 2030 via Educational Innovations in Computer Programming and Mathematics
 
+### #GOQ_Q23
+- What are the major challenges for developing countries from 2020 to 2030 and how do we address them?
+
 The Beijing Olympics in 2008 and subsequent world class achievements by China would be regarded as the clearest signs of a new millennium. Consequently, these boosted confidence in the peoples and the governments of many developing countries, further consolidated by China's One Road One Belt Program (OBOR). Android mobile phones, which by default are made in China, and the new 5G services spearheaded by Huawei, have additionally highlighted Chinese talents and expertise in the area of information and communications technologies.
 
 However, as highlighted by various participant nations in the One Belt One Road (OBOR) initiative, making sure developing countries are not left behind again in a new round of industrial and technological revolution remains a crucial challenge. The most critical of these challenges would be the drawback in education for computer programming and mathematics, which forms the basis for scientific and engineering advancement.
@@ -12,9 +15,11 @@ It is rather ironic that the non-Latin programming language problem has lingered
 
 As such, the solution we propose in this project, the Phos programming language, an extension of the Forth programming language, has tremenduous significance due to the factors described above.
 
+
+### #GOQ_Q23
 - What is the Phos programming language？
 
-Phos is a stack based programming language syntactically compatible to Forth, implemented as a stack machine shell (smashlet) within a high level host programming language, such as Java, JavaScript, PHP etc., enabling a supply chain model for programming languages, i.e. host programming language as upstream module, Phos as downstream module.
+Phos is a stack based programming language syntactically compatible to Forth, implemented as a stack machine shell (smashlet) within a high level host programming language, such as Java, JavaScript, PHP etc., enabling a supply chain model for programming languages, i.e. the host programming language as upstream module, Phos as downstream module.
 
 :: link to Phos; then compare visual block schemes Scratch Blockly etc. Emphasize Google MIT heavy weight but have limitations
 
