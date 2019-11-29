@@ -1,6 +1,6 @@
 ### From China's One Belt One Road Program to MIT Scratch Programming Language: Addressing Challenges in Global Development from 2020 to 2030 vai Educational Innovations in Programming and Mathematics
 
-The Beijing Olympics in 2008 and subsequent achievements by China in front of the eyes of the world would be considered the clearest signs of a new millennium.
+The Beijing Olympics in 2008 and subsequent achievements by China in front of the eyes of the world would be considered the clearest signs of a new millennium. Consequently, these boosted confidence in the peoples and the governments of many developing countries. Android mobile phones, which by default are made in China, and the new 5G services spreadheaded by Huawei, have further highlighted Chinese talents in the area of information and communications technologies.
 
 Intergenerational House ownership as sign of rich poor gap.
 
