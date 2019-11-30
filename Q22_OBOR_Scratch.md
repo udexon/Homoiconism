@@ -53,6 +53,17 @@ However, few seems to be worried about the side effects of creating too many pro
 
 Against this back drop, MIT and Google have worked on Scratch and Blockly, visual block schemes to help children as well as adults to learn programming without using text.
 
+As mentioned earlier,
+- The factors involved in finding solutions for innovations in programming languages involving non-Latin alphabets concern some very fundamental theories in software engineering and mathematics, which are in a very small niche in computer science, yet actually affects the majority of the world population, i.e. those whose mother tongues are not Latin alphabets.
+
+... homoiconic programming to wider audience 
+
+https://github.com/udexon/Homoiconism
+
+- We coin the term "homoiconism" to refer to the procedures, analyses and related topics where non-homoiconic program code is transformed into homoiconic form, as this subject has not been investigated extensively elsewhere. We believe we have invented a novel, generalized procedure for transforming programs written in ANY known programming language into a Forth like Reverse Polish Notation syntax, known as the Inverse Shunting Yard Algorithm (ISYA), thus making homoiconism accessible to a much wider audience than previously possible.
+
+
+
 :: link to Phos; then compare visual block schemes Scratch Blockly etc. Emphasize Google MIT heavy weight but have limitations
 
 Intergenerational House ownership as sign of rich poor gap.
