@@ -55,6 +55,10 @@ Against this back drop, MIT and Google have worked on Scratch and Blockly, visua
 
 From the programming languages listed in Rosetta Code to MIT Scratch and Google Blockly, we need a theoretical model to analyze them. However, to find a common theoretical model to analyze ALL known programming languages is like to find the master key to all locks.
 
+Does such a common theoretical model for all programming languages exist?
+
+Conversely, if a common theoretical model for all programming languages can be found, then it will be very significant breakthrough in the field of computer science.
+
 , in order to .... this is like finding a master key to all locks .... how to explain?
 
 As mentioned earlier,
