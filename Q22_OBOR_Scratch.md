@@ -34,7 +34,13 @@ In Forth and Phos, there is an alias mechanism called "colon definition", where 
 ### #GOQ_Q25
 - How do social media affect public policy decision making?
 
-It is getting much harder for policy makers in smaller countries to make the right decisions, as social media noise now dominate political agenda. Taiwan and Malaysia are two typical examples worth studying. Topics cocerning technology nowadays are dominated by Apple. Anything that is not related to Apple and Apple products will not get noticed outside technology communities. While superpower like China has a properly set up military ecosystem to identify technologies required to survive, Taiwan and Malaysia are typical examples where decision making have been dominated by national ideologies, i.e. Taiwan independence and Malay dominance. For example, while Malaysia has finally sold its first national car company to BYD of China in order to rescue it from bankruptcy, what could have been a flagship collaboration project leading Malaysia forward in the technology and industry sectors has become completely silent, as anything Chinese will be seen as humiliation to Malays, the dominant race whose competitiveness have been questioned even by the Malays themselves.
+It is getting much harder for policy makers in smaller countries to make the right decisions, as social media noises now dominate political agenda. Taiwan and Malaysia are two typical examples worth studying. Topics cocerning technology nowadays are dominated by Apple. Anything that is not related to Apple and Apple products will not get noticed outside technology communities. While superpower like China has a properly set up military ecosystem to identify technologies required to survive, Taiwan and Malaysia are typical examples where decision making have been dominated by national ideologies, i.e. Taiwan independence and Malay dominance. 
+
+For example, while Malaysia has finally sold its first national car company Proton to BYD of China in order to rescue it from bankruptcy, what could have been a flagship collaboration project leading Malaysia forward in the technology and industry sectors has become completely silent, as anything Chinese will be seen as humiliation to Malays, the dominant race whose competitiveness have been questioned even by the Malays themselves.
+
+As such, decisions concerning innovations in education will invariably be affected by factors mentioned above.
+
+However, the decade from 2020 to 2030 will perhaps be the most critical ever in human history, as we expect AGI, artificial general intelligence, to emerge. Our fear concerning the technological singularity (TS) brought about by AGI is not about man vs. machine, but ethnic genocide, as this is still the most potent force of destruction within human society as of 2019, although largely muted.
 
 
 :: link to Phos; then compare visual block schemes Scratch Blockly etc. Emphasize Google MIT heavy weight but have limitations
