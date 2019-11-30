@@ -29,6 +29,14 @@ In Forth and Phos, there is an alias mechanism called "colon definition", where 
 
 <img src="https://github.com/udexon/Homoiconism/blob/master/Phos_Unicode.png" width=800>
 
+
+
+### #GOQ_Q25
+- How do social media affect public policy decision making?
+
+It is getting much harder for policy makers in smaller countries to make the right decisions, as social media noise now dominate political agenda. Taiwan and Malaysia are two typical examples worth studying. Topics cocerning technology nowadays are dominated by Apple. Anything that is not related to Apple and Apple products will not get noticed outside technology communities. While superpower like China has a properly set up military ecosystem to identify technologies required to survive, Taiwan and Malaysia are typical examples where decision making have been dominated by national ideologies, i.e. Taiwan independence and Malay dominance. For example, while Malaysia has finally sold its first national car company to BYD of China in order to rescue it from bankruptcy, what could have been a flagship collaboration project leading Malaysia forward in the technology and industry sectors has become completely silent, as anything Chinese will be seen as humiliation to Malays, the dominant race whose competitiveness have been questioned even by the Malays themselves.
+
+
 :: link to Phos; then compare visual block schemes Scratch Blockly etc. Emphasize Google MIT heavy weight but have limitations
 
 Intergenerational House ownership as sign of rich poor gap.
