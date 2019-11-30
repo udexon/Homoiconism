@@ -1,4 +1,4 @@
-### Mastering Computer Programming and Abstract Mathematics One Line At A Time with Phos Stack Machine Shell Language (Smashlet)
+### Mastering Computer Programming and Abstract Mathematics _One Line At A Time_ with Phos Stack Machine Shell Language (Smashlet)
 
 Stack Machine Shell Language Engine Terminal (Smashlet)
 
