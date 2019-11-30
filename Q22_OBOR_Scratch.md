@@ -62,7 +62,7 @@ https://github.com/udexon/Homoiconism
 
 - We coin the term "homoiconism" to refer to the procedures, analyses and related topics where non-homoiconic program code is transformed into homoiconic form, as this subject has not been investigated extensively elsewhere. We believe we have invented a novel, generalized procedure for transforming programs written in ANY known programming language into a Forth like Reverse Polish Notation syntax, known as the Inverse Shunting Yard Algorithm (ISYA), thus making homoiconism accessible to a much wider audience than previously possible.
 
-
+These problems concern metaprogramming, compiler design, niche. need facility to combine practical applications and easy to learn. Hence smashlet.
 
 :: link to Phos; then compare visual block schemes Scratch Blockly etc. Emphasize Google MIT heavy weight but have limitations
 
