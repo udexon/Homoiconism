@@ -44,7 +44,7 @@ However, the decade from 2020 to 2030 will perhaps be the most critical ever in 
 
 In the next section, we shall address the issues concerning the teaching and learning of programming languages before exploring a unique property in Phos that may lead directly to artificial general intelligence -- homoiconicity.
 
-The programming communities are perhaps the most innovative groupings of our age as the IT industry generated perhaps the largest stream of revenues and has shown the fastest growth in recent history. A quick look at Rosetta Code Bubble Sort page shows there are now 137 programming languages for this particular elementary algorithm which every programmer has learned, in one or more programming languages. Of the "fresh and hot" new programming languages, the "big 3", Go, Rust and Haskell and making waves in programmers' forums. 
+The programming communities are perhaps the most innovative groupings of our age as the IT industry generated perhaps the largest stream of revenues and has shown the fastest growth in recent history. A quick look at Rosetta Code Bubble Sort page shows there are now 137 programming languages for this particular elementary algorithm which every programmer has learned, in one or more programming languages. Of the "fresh and hot" new programming languages, the "big 3", Go, Rust and Haskell are making waves in programmers' forums. 
 
 http://www.rosettacode.org/wiki/Sorting_algorithms/Bubble_sort
 
