@@ -51,6 +51,7 @@ http://www.rosettacode.org/wiki/Sorting_algorithms/Bubble_sort
 
 However, few seems to be worried about the side effects of creating too many programming languages, let alone have a solution to overcome them. Perhaps this is just accepted as a natural outcome of ageism in the industry -- the old programmers who are not able to learn new programming languages should be retired; the young programmers will just learn the new programming languages and try to cope.
 
+Against this back drop, MIT and Google have worked on Scratch and Blockly, visual block schemes to help children as well as adults to learn programming without using text.
 
 :: link to Phos; then compare visual block schemes Scratch Blockly etc. Emphasize Google MIT heavy weight but have limitations
 
