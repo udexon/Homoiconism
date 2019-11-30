@@ -42,6 +42,7 @@ As such, decisions concerning innovations in education will invariably be affect
 
 However, the decade from 2020 to 2030 will perhaps be the most critical ever in human history, as we expect AGI, artificial general intelligence, to emerge. _Our greatest fear concerning the technological singularity (TS) brought about by AGI is not about man vs. machine, but_ ___ethnic genocide___, as this is still the most potent force of destruction within human society as of 2019, although largely muted.
 
+In the next section, we shall address the issues concerning the teaching and learning of programming languages before exploring a unique property in Phos that may lead directly to artificial general intelligence -- homoiconicity.
 
 :: link to Phos; then compare visual block schemes Scratch Blockly etc. Emphasize Google MIT heavy weight but have limitations
 
