@@ -22,6 +22,8 @@ They are not contradictory.
 
 _Token_, in the modern (i.e. after Forth) definition, refers to the output of the C function `strtok()`, where a line of text, with words separated by delimiters are broken into words. Incidentally, _word_ is the original term in the Forth programming language which became _token_ in programming languages after C.
 
+We shall demonstrate how a _token_ or a Phos or Forth _word_ corresponds to a node (vertex) or an edge (line) in graph theory -- one of the most fundamental theories in mathematics that can be used to construct other mathematical theories as well as programming languages.
+
 _A line of code_, usually refers to the unit of code separated by a semicolon ('`;`') in C or similar programming languages. Increasingly, some modern implementations of programming languages such as JavaScript and Kotlin have dropped the use of semicolon and line break is used instead.
 
 Strictly, there is no line break in Forth and Phos type of stack machine programming languages, as we shall learn later. We use the phrase _"one line at a time"_ to appeal to readers for the sake of convenience.
