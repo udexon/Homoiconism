@@ -1,4 +1,4 @@
-### Mastering Computer Programming and Abstract Mathematics _One Line At A Time_ with Phos Stack Machine Shell Language (Smashlet)
+### Mastering Computer Programming and Abstract Mathematics _One Token At A Time_ with Phos Stack Machine Shell Language (Smashlet)
 
 Computer programming and abstract mathematics have the same origin. Over the years, specialization has resulted in separation of disciplines, although occasionally we witness cross fertilization of the two fields, especially in computer algebra system.  
 
@@ -14,6 +14,14 @@ Instead of calling Forth an artificial creation, some may describe it as a "disc
 
 We use the name Phos as it rhymes with Forth, and it means "light" in Greek.
 
+#### _One Token At A Time_ or _One Line At A Time_?
+
+Acute readers may notice the difference in the title of the article and the introduction where we stated _"one token at a time"_ and _"one line at a time"_.
+
+They are not contradictory. 
+
+_Token_, in the modern (i.e. after Forth) definition, refers to the output of the C function `strtok()`, where a line of text, with words separated by delimiters are broken into words. Incidentally, _word_ is the original term in the Forth programming language which became _token_ in programming languages after C.
+
 <hr>
 
 Stack Machine Shell Language Engine Terminal (Smashlet)
@@ -23,3 +31,5 @@ Stack Machine Shell Language Engine Terminal (Smashlet)
 Should write the outcome of Phos, one line of code to learn and share, learn mathematics by one line of code, within first paragraph of article.
 
 Readers have no patience.
+
+### Mastering Computer Programming and Abstract Mathematics _One Line At A Time_ with Phos Stack Machine Shell Language (Smashlet)
