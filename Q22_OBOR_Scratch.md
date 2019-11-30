@@ -53,6 +53,8 @@ However, few seems to be worried about the side effects of creating too many pro
 
 Against this back drop, MIT and Google have worked on Scratch and Blockly, visual block schemes to help children as well as adults to learn programming without using text.
 
+From the programming languages listed in Rosetta Code to MIT Scratch and Google Blockly, we need a theoretical model to analyze them, in order to ....
+
 As mentioned earlier,
 - The factors involved in finding solutions for innovations in programming languages involving non-Latin alphabets concern some very fundamental theories in software engineering and mathematics, which are in a very small niche in computer science, yet actually affects the majority of the world population, i.e. those whose mother tongues are not Latin alphabets.
 
