@@ -40,7 +40,7 @@ For example, while Malaysia has finally sold its first national car company Prot
 
 As such, decisions concerning innovations in education will invariably be affected by factors mentioned above.
 
-However, the decade from 2020 to 2030 will perhaps be the most critical ever in human history, as we expect AGI, artificial general intelligence, to emerge. Our fear concerning the technological singularity (TS) brought about by AGI is not about man vs. machine, but ethnic genocide, as this is still the most potent force of destruction within human society as of 2019, although largely muted.
+However, the decade from 2020 to 2030 will perhaps be the most critical ever in human history, as we expect AGI, artificial general intelligence, to emerge. _Our greatest fear concerning the technological singularity (TS) brought about by AGI is not about man vs. machine, but_ ___ethnic genocide___, as this is still the most potent force of destruction within human society as of 2019, although largely muted.
 
 
 :: link to Phos; then compare visual block schemes Scratch Blockly etc. Emphasize Google MIT heavy weight but have limitations
