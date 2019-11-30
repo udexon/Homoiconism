@@ -1,13 +1,5 @@
 ### Mastering Computer Programming and Abstract Mathematics _One Line At A Time_ with Phos Stack Machine Shell Language (Smashlet)
 
-Stack Machine Shell Language Engine Terminal (Smashlet)
-
-50 years old CEO can do it. 5 years old kid can do it.--> use this live example!! 
-
-Should write the outcome of Phos, one line of code to learn and share, learn mathematics by one line of code, within first paragraph of article.
-
-Readers have no patience.
-
 Computer programming and abstract mathematics have the same origin. Over the years, specialization has resulted in separation of disciplines, although occasionally we witness cross fertilization of the two fields, especially in computer algebra system.  
 
 We have rediscovered the secret formula linking computer programming and abstract mathematics, which has several very important practical applications:
@@ -21,3 +13,13 @@ The creation of Phos Smashlet is based on the Forth programming language, a rela
 Instead of calling Forth an artificial creation, some may describe it as a "discovery", much like the discovery of mathematical and physical laws. With Forth, or its extension Phos, we may continue to explore the mysteries of abstract mathematics and computer programming. 
 
 We use the name Phos as it rhymes with Forth, and it means "light" in Greek.
+
+<hr>
+
+Stack Machine Shell Language Engine Terminal (Smashlet)
+
+50 years old CEO can do it. 5 years old kid can do it.--> use this live example!! 
+
+Should write the outcome of Phos, one line of code to learn and share, learn mathematics by one line of code, within first paragraph of article.
+
+Readers have no patience.
