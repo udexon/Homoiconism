@@ -78,7 +78,7 @@ store the result on stack, to be read by line 49
 
 In Forth and Phos, there is an alias mechanism called "colon definition", where a new word (function name) can be used as an alias to another word (function name) or a sequence of words (word list, sequence of functions). This facility is usually not available in most high level programming languages. As such, Unicode characters or string can be used as Phos words (function name), while retaining the original definition in Latin. Consequently, multiple colon definition words in multiple human natural languages can be used in parallel, thus helping non-Latin programmers to implement word set (function libraries) in their own mother tongue, without losing functionalities in the original Latin colon definition words.
 
-In figure 4, colon definitions as used to create Chinese aliases for relevant words, as shown in lines 43 to 46. The Chinese aliases (words) for execution are given in lines 60 and 61.
+In figure 4, colon definitions are used to create Chinese aliases for relevant words, as shown in lines 43 to 46. The Chinese aliases (words) for execution are given in lines 60 and 61.
 
 <p align="center"><a name="fig_4">Figure 4</a></p>
 <img src="https://github.com/udexon/Homoiconism/blob/master/Phos_Unicode.png" width=800>
