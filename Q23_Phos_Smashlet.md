@@ -20,7 +20,7 @@ The creation of Phos Smashlet is based on the Forth programming language, a rela
 
 Forth has been implemented on almost all know microprocessor architecture ("hardware Forth"). Below is a list of Forth implementations as a module within a high level programming language ("software Forth"), similar to Phos Smashlet, but with their features as well as limitations:
 
-https://github.com/udexon/GOEHDOM/blob/master/Forth_ports.md
+- https://github.com/udexon/GOEHDOM/blob/master/Forth_ports.md
 
 The features of "software Forth" compared to Phos mainly concern with faithfully cloning hardware Forth "words" (functions), but their limitations lie largely in being a separate module, not well integrated with the host programming language, and having a bigger footprint. Nevertheless, the footprint that we are concerned here are merely several hundred to several thousand lines of code in the host programming language, with Phos consuming as little as 20 lines of code in the host programming language for its basic functionalities. It is a far cry from the multiple GBs involved in typical node.js / npm installations these days.
 
