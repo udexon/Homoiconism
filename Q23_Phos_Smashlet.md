@@ -43,6 +43,7 @@ _A line of code_, usually refers to the unit of code separated by a semicolon ('
 Strictly, there is no line break in Forth and Phos type of stack machine programming languages, as we shall learn later. We use the phrase _"one line at a time"_ to appeal to readers for the sake of convenience.
 
 - [How does the Phos programming language address the challenges of non-Latin programming languages?](https://github.com/udexon/Homoiconism/blob/master/Q22_OBOR_Scratch.md#goq_q24)
+  + [Unicode definition names and multilingual programming](https://groups.google.com/forum/#!topic/comp.lang.forth/n4NiapCht-I）
 
 - [Upstream / Downstream Supply Chain Model for Programming Language](https://github.com/udexon/Homoiconism/blob/master/Q19_HIP_Advantages.md#2-upstream--downstream-supply-chain-model-for-programming-language)
 
