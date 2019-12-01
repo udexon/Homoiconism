@@ -49,6 +49,7 @@ Strictly, there is no line break in Forth and Phos type of stack machine program
 * Compare Scratch, Blockly and Logo
   - https://github.com/udexon/Homoiconism/blob/master/Q20_Homogotchi_CAS.md
   - https://github.com/udexon/Homoiconism/blob/master/Q21_Compare_Logo.md
+  - [How does Phos overcome the side effects of too many programming languages?](https://github.com/udexon/Homoiconism/blob/master/Q22_OBOR_Scratch.md#goq_q26)
 
 - https://github.com/udexon/Homoiconism/blob/master/Q19_HIP_Advantages.md#3-unifying-programming-and-mathematics
 
