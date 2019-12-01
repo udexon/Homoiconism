@@ -44,7 +44,7 @@ Strictly, there is no line break in Forth and Phos type of stack machine program
 
 - [How does the Phos programming language address the challenges of non-Latin programming languages?](https://github.com/udexon/Homoiconism/blob/master/Q22_OBOR_Scratch.md#goq_q24)
 
-- https://github.com/udexon/Homoiconism/blob/master/Q19_HIP_Advantages.md#2-upstream--downstream-supply-chain-model-for-programming-language
+- [Upstream / Downstream Supply Chain Model for Programming Language](https://github.com/udexon/Homoiconism/blob/master/Q19_HIP_Advantages.md#2-upstream--downstream-supply-chain-model-for-programming-language)
 
 <!-- need preceding two spaces for nested indent to work!! -->
 
@@ -53,7 +53,7 @@ Strictly, there is no line break in Forth and Phos type of stack machine program
   - https://github.com/udexon/Homoiconism/blob/master/Q21_Compare_Logo.md
   - [How does Phos overcome the side effects of too many programming languages?](https://github.com/udexon/Homoiconism/blob/master/Q22_OBOR_Scratch.md#goq_q26)
 
-- https://github.com/udexon/Homoiconism/blob/master/Q19_HIP_Advantages.md#3-unifying-programming-and-mathematics
+- [Unifying Programming and Mathematics](https://github.com/udexon/Homoiconism/blob/master/Q19_HIP_Advantages.md#3-unifying-programming-and-mathematics)
 
 <hr>
 
