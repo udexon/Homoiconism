@@ -47,7 +47,8 @@ In the next section, we shall address the issues concerning the teaching and lea
 
 <!-- label or reuse useful paragraph from old text and use in the article -->
 
-#### How does Phos overcome the side effects of too many programming languages?
+### #GOQ_Q26 
+- How does Phos overcome the side effects of too many programming languages?
 
 The programming communities are perhaps the most innovative groupings of our age as the IT industry generated perhaps the largest stream of revenues and has shown the fastest growth in recent history. A quick look at Rosetta Code Bubble Sort page shows there are now 137 programming languages for this particular elementary algorithm which every programmer has learned, in one or more programming languages. Of the "fresh and hot" new programming languages, the "big 3", Go, Rust and Haskell are making waves in programmers' forums. 
 
