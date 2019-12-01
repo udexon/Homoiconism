@@ -1,6 +1,6 @@
 ### Phos Smashlet for Android Java
 
-We implemented a Forth like stack machine shell (Phos smashlet) within Android Java, to demonstrate a simple time reading function, alongside Reactive Java Sensors module. The original motivation is to create a Forth like development environment for modern Android platform, to develop robotics and sensor applications.
+We implemented a Forth like stack machine shell (Phos smashlet) within Android Java, to demonstrate a simple time reading function, alongside Reactive Java Sensors module. The original motivation is to create a Forth like development environment for modern Android platform, to develop robotics and sensor applications. Unicode (Chinese) aliases using colon definition are also implemented.
 
 Figures 1 and 2 show portions of code from `SensorHelper.java` from:
 
