@@ -67,6 +67,8 @@ Conversely, if a common theoretical model for all programming languages can be f
 
 At this point, we will let the readers to decide whether to click on the next link to reveal the secret of all programming languages, leaving the opportunity to find the solution for those who are willing to attempt at it.
 
+<hr>
+
 , in order to .... this is like finding a master key to all locks .... how to explain?
 
 As mentioned earlier,
