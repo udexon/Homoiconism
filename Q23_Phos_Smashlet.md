@@ -17,10 +17,11 @@ https://github.com/udexon/GOEHDOM/blob/master/Phos_Smashlet.md
 
 The creation of Phos Smashlet is based on the Forth programming language, a relatively unknown programming language nowadays, launched in 1968 by Charles H. Moore. Although not much is known about the relationships between Charles Moore and Gordon Moore, the co-founder of Intel whose name gave rose to the Moore's law, some fans of Charles Moore believe that Charles's contribution to computing may one day outshine that of Gordon's, as we shall explore in this article.
 
-Forth has been implemented on almost all know microprocessor architecture. Below is a list of Forth implementations as a module within a high level programming language, similar to Phos Smashlet, but with their features as well as limitations:
+Forth has been implemented on almost all know microprocessor architecture ("hardware Forth"). Below is a list of Forth implementations as a module within a high level programming language ("software Forth"), similar to Phos Smashlet, but with their features as well as limitations:
 
 https://github.com/udexon/GOEHDOM/blob/master/Forth_ports.md
 
+The features of "software Forth" compared to Phos mainly concern with faithfully cloning hardware Forth "words" (functions), but their limitations lie largely in being a separate module, not well integrated with the host programming language, and having a bigger footprint. Nevertheless, the footprint that we are concerned here are merely several hundred to several thousand lines of code in the host programming language, with Phos consuming as little as 20 lines of code in the host programming language for its basic functionalities. It is a far cry from the multiple GBs involved in typical node.js / npm installations these days.
 
 Instead of calling Forth an artificial creation, some may describe it as a "discovery", much like the discovery of mathematical and physical laws. With Forth, or its extension Phos, we may continue to explore the mysteries of abstract mathematics and computer programming. 
 
