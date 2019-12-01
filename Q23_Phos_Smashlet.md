@@ -8,6 +8,12 @@ We have rediscovered the secret formula linking computer programming and abstrac
 
 We call this system Phos -- it is a shell programming language based on stack machine. It is abbreviated as Smashlet -- stack machine shell language engine terminal.
 
+- _Phos Smashlet takes a space delimited string, pushes non-function tokens on to the stack, and execute functions in the host programming language mapped by fuction words (tokens)._
+
+The previous sentence basically summarizes the operations of a stack machine shell (smashlet). Due to its simplicity, it can be implemented in all known programming languages. We have successfully implemented Phos Smashlet in PHP, JavaScript and Java.
+
+https://github.com/udexon/GOEHDOM/blob/master/Phos_Smashlet.md
+
 The creation of Phos Smashlet is based on the Forth programming language, a relatively unknown programming language nowadays, launched in 1968 by Charles H. Moore. Although not much is known about the relationships between Charles Moore and Gordon Moore, the co-founder of Intel whose name gave rose to the Moore's law, some fans of Charles Moore believe that Charles's contribution to computing may one day outshine that of Gordon's, as we shall explore in this article.
 
 Instead of calling Forth an artificial creation, some may describe it as a "discovery", much like the discovery of mathematical and physical laws. With Forth, or its extension Phos, we may continue to explore the mysteries of abstract mathematics and computer programming. 
