@@ -9,8 +9,8 @@ I would like to share it with the world first via comp.lang.forth, also to see i
 
 1. --- pseudo code starts ---
 
-Recursive search and replace RPN function selection
 
+```
 For i in word list  
   Extract sublist 0 .. i, run test 
   Until error occurs at token i  
@@ -21,7 +21,7 @@ Assume word list gives no error up to token i, runs as expected.
 if Token i is another word list, recurse continuously into it. 
 
 When recursion stops, find token j from database to replace token i, to eliminate errors. 
-
+```
 --- pseudo code ends ---
 
 This is one of those inspirations that comes during sleep and got written down immediately after waking up.
