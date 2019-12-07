@@ -44,7 +44,7 @@ Readers may compare any claim to AGI with Google's various AI projects as they h
 
 Despite Google's efforts and attempts by various researchers, one area remains unexplored -- homoiconicity.
 
-Homoiconism, which is central to the algorithm I proposed above.
+Homoiconism, which is central to the algorithm we proposed above, can compliment many of the major AI algorithms in use today. 
 
 We intend to create an algorithm that mimics the operations of human programmers, as a first attempt to model artificial general intelligence.
 
