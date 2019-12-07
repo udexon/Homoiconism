@@ -54,6 +54,11 @@ We have conceived an inverse Shunting Yard Algorithm which converts Forth like R
 
 As such, a program written in a high level programming language can be transformed into space delimited reverse Polish notation. Debugging can be considered as a process where a human programmer uses a debugger to detect run time errors of a running program. Usually, a program will execute with errors until one instance of the code gives rise to the first run time error. Based on this assumption, we have devised HOTRECIPE algorithm as described above. In summary, the essence of simulating the debugging process consists of detecting the first run time error in the program.
 
+#### Debugging as AGI Skill
+
+In the analysis above, we have made an assumption that debugging represents an essential AGI skill that can be further developed into human level AGI.
+
+
 
 
 3. Reference to similar work:
