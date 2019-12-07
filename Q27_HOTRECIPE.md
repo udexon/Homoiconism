@@ -33,9 +33,18 @@ I would also need to do some deep thinking to see if there are serious loopholes
 Otherwise, this might be the biggest eureka moment in human history. Sharing it with the world would also make it foolproof if proven true.
 
 
-2. My code repo:
+1.2. My code repo:
 
 https://github.com/udexon/Homoiconism/blob/master/Android_Java_Phos.md
+
+
+1.3. Who else has the highest prospect to achieve Artificial General Intelligence?
+
+Readers may compare any claim to AGI with Google's various AI projects as they have the highest profile and exposure in recent years.
+
+Despite Google's efforts and attempts by various researchers, one area remains unexplored -- homoiconicity.
+
+
 
 
 3. Reference to similar work:
