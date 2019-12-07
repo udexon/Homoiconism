@@ -50,6 +50,7 @@ If you explore my idea again, you will find that it is the missing piece needed 
 
 In the GitHub link I gave, it leads to more articles I wrote about homoiconism, which is central to the algorithm I proposed above.
 
+We intend to create an algorithm that mimics the operations of human programmers, as a first attempt to model artificial general intelligence.
 
 3. Reference to similar work:
 
