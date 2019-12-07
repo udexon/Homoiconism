@@ -52,6 +52,14 @@ In the GitHub link I gave, it leads to more articles I wrote about homoiconism, 
 
 We intend to create an algorithm that mimics the operations of human programmers, as a first attempt to model artificial general intelligence.
 
+A program, written in a high level programming language such as C++ or Java, is basically a series of function calls, separated by semicolons. Syntax errors are usually detected during compile time. Run time errors are errors that occur during execution, whose code are correctly written and no error was detected during compile time. 
+
+We have conceived an inverse Shunting Yard Algorithm which converts Forth like Reverse Polish Notation into function calls in host programming language, such as C++, Java or equivalent, thereby enabling code written in any known existing programming language be transformed into reverse Polish notation.
+
+As such, a program written in a high level programming language can be transformed into space delimited reverse Polish notation. Debugging can be considered as a process where a human programmer uses a debugger to detect run time errors of a running program. Usually, a program will execute with errors until one instance of the code gives rise to the first run time error. Based on this assumption, we have devised HOTRECIPE algorithm as described above. In summary, the essence of simulating the debugging process consists of detecting the first run time error in the program.
+
+
+
 3. Reference to similar work:
 
 Practical program repair via bytecode mutation
