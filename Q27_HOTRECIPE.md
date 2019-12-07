@@ -60,7 +60,9 @@ In the analysis above, we have made an assumption that debugging represents an e
 
 Although all known artificial intelligence algorithms can be divided into various fields such as robotics, image processing, expert systems etc., they are invariably implemented as programs written in some programming languages.
 
-As such, 
+As such, any reader with some engineering or scientific knowledge might have asked, "Is it possible to write a program that has the ability to generate the code of another program?" Such question is known as metaprogramming. Unfortunately, metaprogrammming is field that has received significantly less attention compared to other areas of AI research, perhaps due to its difficulties and lack of interesting discoveries in recent years.
+
+The AI research community and industry are perhaps guilty of self-censorship and self-congratulatory, driven by "human nature" (pun intended!!) as with other fields of human activities, by avoiding to highlight areas such as metaprogramming that MAY lead to signficiant breakthrough.
 
 
 
