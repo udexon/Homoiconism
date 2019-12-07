@@ -44,7 +44,11 @@ Readers may compare any claim to AGI with Google's various AI projects as they h
 
 Despite Google's efforts and attempts by various researchers, one area remains unexplored -- homoiconicity.
 
+Most of the issues you mentioned have been attempted elsewhere.
 
+If you explore my idea again, you will find that it is the missing piece needed to complement most other known existing algorithms.
+
+In the GitHub link I gave, it leads to more articles I wrote about homoiconism, which is central to the algorithm I proposed above.
 
 
 3. Reference to similar work:
