@@ -58,6 +58,10 @@ As such, a program written in a high level programming language can be transform
 
 In the analysis above, we have made an assumption that debugging represents an essential AGI skill that can be further developed into human level AGI.
 
+Although all known artificial intelligence algorithms can be divided into various fields such as robotics, image processing, expert systems etc., they are invariably implemented as programs written in some programming languages.
+
+As such, 
+
 
 
 
