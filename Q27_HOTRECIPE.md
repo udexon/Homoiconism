@@ -80,6 +80,12 @@ https://github.com/udexon/Homoiconism/blob/master/Q23_Phos_Smashlet.md
 
 - Can HOTRECIPE be implemented in non-homoiconic high level programming languages, such as C++ or Java? 
 
+Phos stack machine shell (Smashlet) fundamentally change the concept of "writing a program in programming language X", as theoretically, the Inverse Shunting Yard Algorithm, the inverse of Dijkstra's now legendary Shunting Yard Algorithm (DSYA), can be implemented in any known programming language.
+
+- How can we prove that "the Inverse Shunting Yard Algorithm can be implemented in any known programming language"?
+
+- How can we prove that "Phos stack machine shell could become a universal interface to all known programming languages"?
+
 3. Reference to similar work:
 
 Practical program repair via bytecode mutation
