@@ -65,6 +65,18 @@ As such, any reader with some engineering or scientific knowledge might have ask
 The AI research community and industry are perhaps guilty of self-censorship and self-congratulatory, driven by "human nature" (pun intended!!) as with other fields of human activities, by avoiding to highlight areas such as metaprogramming that MAY lead to signficiant breakthrough.
 
 
+#### Why has Forth not become more popular?
+
+As digital archives have preserved most of the history of computin itself, we now have substantial references to look at various historical questions, such as:
+
+- Why has Forth not become more popular?
+
+I suppose Intel 386 and its descendants defined much of today's computing landscape. After the launch of Intel 386, Microsoft Windows and Linux dominated the world, powered by GNU C Compiler. In the ensuing decades, programmers did not have the habit to use multiple programming languages, until the era of web servers created the PHP+JavaScript+MySQL ecosystems, resulting the multilingual environment that we have today.
+
+During this period, Forth did not have apparet advantages compared to the more popular programming languages. We believe our work in generalizing the Inverse Shunting Yard Algorithm (ISYA) has made Forth an essential candidate in the programming ecosystems as our Phos stack machine shell could become a universal interface to all known programming languages:
+
+https://github.com/udexon/Homoiconism/blob/master/Q23_Phos_Smashlet.md
+
 
 
 3. Reference to similar work:
