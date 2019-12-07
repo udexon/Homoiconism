@@ -71,7 +71,7 @@ As digital archives have preserved most of the history of computin itself, we no
 
 - Why has Forth not become more popular?
 
-I suppose Intel 386 and its descendants defined much of today's computing landscape. After the launch of Intel 386, Microsoft Windows and Linux dominated the world, powered by GNU C Compiler. In the ensuing decades, programmers did not have the habit to use multiple programming languages, until the era of web servers created the PHP+JavaScript+MySQL ecosystems, resulting the multilingual environment that we have today.
+I suppose Intel 386 and its descendants defined much of today's computing landscape. After the launch of Intel 386, Microsoft Windows and Linux dominated the world, powered by GNU C Compiler, forcing Microsoft to embrace C/C++ too. In the ensuing decades, programmers did not have the habit to use multiple programming languages, until the era of web servers created the PHP+JavaScript+MySQL ecosystems, resulting in the multilingual environment that we have today.
 
 During this period, Forth did not have apparet advantages compared to the more popular programming languages. We believe our work in generalizing the Inverse Shunting Yard Algorithm (ISYA) has made Forth an essential candidate in the programming ecosystems as our Phos stack machine shell could become a universal interface to all known programming languages:
 
