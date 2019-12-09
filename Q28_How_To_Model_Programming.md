@@ -16,3 +16,7 @@ Behind this trivial example are many issues that remain open for decades, such a
 - How do we model the programmer's motivations, including his (her) intention to write this program?
 
 It is beyond the scope of this article to give a comprehensive treatment to the questions above. They however serve as useful introduction. 
+
+#### Homoiconic Transformation
+
+need this before can do HOTRECIPE
