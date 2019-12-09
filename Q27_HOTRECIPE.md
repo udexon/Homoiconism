@@ -1,4 +1,5 @@
 ### Homoiconic Token Recursive Search and Replace (HOTRECIPE)
+#### Homoiconic Token Recursive Composition and Identification of Program Errors (HOTRECIPE)
 
 https://groups.google.com/forum/#!topic/comp.lang.forth/wMSmDMCY_8I
 
@@ -6,6 +7,8 @@ Forth has given me plenty of inspirations, leading to the following algorithm.
 
 I would like to share it with the world first via comp.lang.forth, also to see if anyone has worked on similar algorithms, or may comment on it.
 
+
+#### Debugging
 
 1. --- pseudo code starts ---
 
@@ -23,6 +26,15 @@ if Token i is another word list, recurse continuously into it.
 When recursion stops, find token j from database to replace token i, to eliminate errors. 
 ```
 --- pseudo code ends ---
+
+
+#### Program Composition
+```
+For j in word database  
+  Add token to word list; run test 
+  Until goal is achieved at token i  
+```
+
 
 This is one of those inspirations that comes during sleep and got written down immediately after waking up.
 
