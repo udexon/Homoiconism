@@ -9,10 +9,6 @@ I would like to share it with the world first via comp.lang.forth, also to see i
 
 
 #### Debugging
-
-1. --- pseudo code starts ---
-
-
 ```
 For i in word list  
   Extract sublist 0 .. i, run test 
@@ -25,7 +21,7 @@ if Token i is another word list, recurse continuously into it.
 
 When recursion stops, find token j from database to replace token i, to eliminate errors. 
 ```
---- pseudo code ends ---
+
 
 
 #### Program Composition
