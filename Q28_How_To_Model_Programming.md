@@ -13,3 +13,4 @@ print("Hello")
 
 Behind this trivial example are many issues that remain open for decades, such as:
 - Why would the programmer want to write this program?
+- How do we model the programmer's motivations, including his (her) intention to write this program?
