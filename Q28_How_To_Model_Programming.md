@@ -14,3 +14,5 @@ print("Hello")
 Behind this trivial example are many issues that remain open for decades, such as:
 - Why would the programmer want to write this program?
 - How do we model the programmer's motivations, including his (her) intention to write this program?
+
+It is beyond the scope of this article to give a comprehensive treatment to the questions above. They however serve as useful introduction. 
