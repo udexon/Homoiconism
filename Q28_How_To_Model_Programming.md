@@ -23,4 +23,6 @@ In order to define our model of programming, two significant breakthroughs are r
 
 #### Homoiconic Transformation
 
+https://github.com/udexon/GOEHDOM/blob/master/Homoiconicity.md#homoiconic-transformation
+
 need this before can do HOTRECIPE
