@@ -17,6 +17,10 @@ Behind this trivial example are many issues that remain open for decades, such a
 
 It is beyond the scope of this article to give a comprehensive treatment to the questions above. They however serve as useful introduction. 
 
+In order to define our model of programming, two significant breakthroughs are required:
+- homoiconic transformation
+- homoiconic token debugging and composition
+
 #### Homoiconic Transformation
 
 need this before can do HOTRECIPE
