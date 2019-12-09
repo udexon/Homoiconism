@@ -22,7 +22,7 @@ if Token i is another word list, recurse continuously into it.
 When recursion stops, find token j from database to replace token i, to eliminate errors. 
 ```
 
-
+- Hypothesis 1: Human programmers learn programming by copying existing code, learn how to debug, then use the acquired knowledge to compose new code. Hence the following Composition Algorithm:-
 
 #### Program Composition
 ```
