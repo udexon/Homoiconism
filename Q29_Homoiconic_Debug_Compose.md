@@ -23,7 +23,7 @@ For j in word database
   Until goal is achieved at token i  
 ```
 
-All AI programs deployed or in research are large and complex programs that have lots of runtime errors, managed by human researchers. Hence they are captive market to test HOTRECIPE!!
+All AI programs deployed or in research are large and complex programs that have lots of runtime errors, managed by human researchers. Hence they are captive market to test HTDC!!
 
 Debug and composition are duals. Debug finds the first runtime error from list of words. Composition find the next word to add to list, can do bottom up or top down (work backwards from goal). 
 
