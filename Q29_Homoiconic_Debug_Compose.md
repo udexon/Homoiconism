@@ -16,6 +16,11 @@ if Token i is another word list, recurse continuously into it.
 When recursion stops, find token j from database to replace token i, to eliminate errors. 
 ```
 
+#### Finding Alternative Routes in Map
+
+Generalize Finding Alternative Routes in Map to programming and problem solving using HTDC?
+
+
 #### Program Composition
 ```
 For j in word database  
