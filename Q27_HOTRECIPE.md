@@ -1,12 +1,7 @@
 ### Homoiconic Token Debugging and Composition
 #### Homoiconic Token Recursive Composition and Identification of Program Errors (HOTRECIPE)
 
-https://groups.google.com/forum/#!topic/comp.lang.forth/wMSmDMCY_8I
-
-Forth has given me plenty of inspirations, leading to the following algorithm.
-
-I would like to share it with the world first via comp.lang.forth, also to see if anyone has worked on similar algorithms, or may comment on it.
-
+- Hypothesis 1: Human programmers learn programming by copying existing code, and learn how to debug; then use the acquired knowledge to compose new code. Hence the following Homoiconic Token Debugging and Composition (HTDC) algorithm:-
 
 #### Debugging
 ```
@@ -22,20 +17,18 @@ if Token i is another word list, recurse continuously into it.
 When recursion stops, find token j from database to replace token i, to eliminate errors. 
 ```
 
-- Hypothesis 1: Human programmers learn programming by copying existing code, learn how to debug, then use the acquired knowledge to compose new code. Hence the following Composition Algorithm:-
-
 #### Program Composition
 ```
 For j in word database  
   Add token to word list; run test 
   Until goal is achieved at token i  
 ```
+
 All AI programs deployed or in research are large and complex programs that have lots of runtime errors, managed by human researchers. Hence they are captive market to test HOTRECIPE!!
 
 Debug and composition are duals. Debug finds the first runtime error from list of words. Composition find the next word to add to list, can do bottom up or top down (work backwards from goal). 
 
 Composition may involve only very small number of words in word list, but very deep nesting and large number of candidate words in database. Hence need to debugger simulation first. 
-
 
 This is one of those inspirations that comes during sleep and got written down immediately after waking up.
 
@@ -107,3 +100,11 @@ A Ghanbari, S Benton, L Zhang - Proceedings of the 28th ACM SIGSOFT …, 2019 - 
 even be applicable for fixing code without source code information, eg … of the syntax of a specific
 target programming language, and applicable to different Java versions and …
 Cited by 12 Related articles All 4 versions 
+
+4. Original post:
+
+https://groups.google.com/forum/#!topic/comp.lang.forth/wMSmDMCY_8I
+
+Forth has given me plenty of inspirations, leading to the following algorithm.
+
+I would like to share it with the world first via comp.lang.forth, also to see if anyone has worked on similar algorithms, or may comment on it.
