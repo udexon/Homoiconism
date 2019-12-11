@@ -1,4 +1,4 @@
-### Homoiconic Token Recursive Search and Replace (HOTRECIPE)
+### Homoiconic Token Debugging and Composition
 #### Homoiconic Token Recursive Composition and Identification of Program Errors (HOTRECIPE)
 
 https://groups.google.com/forum/#!topic/comp.lang.forth/wMSmDMCY_8I
