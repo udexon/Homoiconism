@@ -23,7 +23,17 @@ For j in word database
   Until goal is achieved at token i  
 ```
 
-All AI programs deployed or in research are large and complex programs that have lots of runtime errors, managed by human researchers. Hence they are captive market to test HTDC!!
+All AI programs deployed or in research are large and complex programs that have lots of runtime errors, managed by human researchers. Hence they are captive market to test HTDC.
+
+Let's consider GitHub programmers who maintain repositories of AI projects. As of now, maintaining the repositories is a completely manual process. What if the maintainers add a Phos stack machine shell HTDC algorithm to the AI repository? The Phos stack machine shell (Smashlet) is a non-disruptive component that can be added to projects written in ANY programming language. 
+
+As we now have a Forth like environment (Phos stack machine shell) to build up Forth like words, which are mapped to the functions in the host programming language, as can be analyzed using Forth like methodologies, we are hoping that we may discover some consistent patterns within the debugger simulator when we build up around 500 Forth like (Phos) words. Of course this number is just a wild guess as we do not have prior samples. But this is a breakthrough in that we now have a theoretical framework upon which to build a Forth like word database for automated debugging.
+
+At this stage, we may have more sample words and data to investigate if Forth words and Phos words exhibit similar behaviour, as far as debugging is concerned. This has not been attempted previously, simply because:
+
+- there was simply no theory or attempt to build a high level "software Forth" stack machine shell, as Forth programmers are too busy making their own money;
+
+- without the above, there are simply not enough new Forth converts to investigate this critical issue, or not one realized it exists as it has not been formalized.
 
 Debug and composition are duals. Debug finds the first runtime error from list of words. Composition find the next word to add to list, can do bottom up or top down (work backwards from goal). 
 
