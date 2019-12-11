@@ -19,13 +19,10 @@ It is beyond the scope of this article to give a comprehensive treatment to the 
 
 In order to define our model of programming, two significant breakthroughs are required:
 - homoiconic transformation
-- homoiconic token debugging and composition
+- [homoiconic token debugging and composition](https://github.com/udexon/Homoiconism/blob/master/Q27_HOTRECIPE.md)
 
-#### Homoiconic Transformation
+#### [Homoiconic Transformation](https://github.com/udexon/GOEHDOM/blob/master/Homoiconicity.md#homoiconic-transformation)
 
-https://github.com/udexon/GOEHDOM/blob/master/Homoiconicity.md#homoiconic-transformation
-
-need this before can do HOTRECIPE
 
 "Homoiconic transformation"  refers to process of transforming non-homoiconic code into homoiconic form, involving the use DYSA and ISYA:
 
