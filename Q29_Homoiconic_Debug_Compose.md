@@ -23,6 +23,8 @@ For j in word database
   Until goal is achieved at token i  
 ```
 
+#### Automatic Debugging for Existing Software Repositories
+
 All AI programs deployed or in research are large and complex programs that have lots of runtime errors, managed by human researchers. Hence they are captive market to test HTDC.
 
 Let's consider GitHub programmers who maintain repositories of AI projects. As of now, maintaining the repositories is a completely manual process. What if the maintainers add a Phos stack machine shell HTDC algorithm to the AI repository? The Phos stack machine shell (Smashlet) is a non-disruptive component that can be added to projects written in ANY programming language. 
