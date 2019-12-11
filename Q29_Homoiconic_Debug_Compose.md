@@ -20,6 +20,9 @@ When recursion stops, find token j from database to replace token i, to eliminat
 
 Generalize Finding Alternative Routes in Map to programming and problem solving using HTDC?
 
+Start with small goal: artificial maze, find alternative routes.
+
+Generalize goals to greater goals: find food, energy sources, money, land, resources, etc.
 
 #### Program Composition
 ```
