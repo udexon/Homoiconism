@@ -16,7 +16,11 @@ if Token i is another word list, recurse continuously into it.
 When recursion stops, find token j from database to replace token i, to eliminate errors. 
 ```
 
-#### Finding Alternative Routes in Map
+#### Pathfinding
+
+- Finding Alternative Routes in Map
+
+- Homoiconic Pathfinding ?? (HIPF)??
 
 Generalize Finding Alternative Routes in Map (FARM) to programming and problem solving using HTDC?
 
@@ -24,7 +28,13 @@ Start with small goal: artificial maze, find alternative routes.
 
 Generalize goals to greater goals: find food, energy sources, money, land, resources, etc.
 
-- Homoiconism is a model that allows FARM to be generalized to greater goals in programming and problem solving.
+- Homoiconism is a model that allows FARM / pathfinding to be generalized to greater goals in programming and problem solving.
+
+Program test is a special case of goal matching, defined by test function.
+
+Program execution without test is implicit test for runtime errors, defaulting the program to halt at runtime error. Modelling program execution using HTDC / HIPF allows pathfinding to be generalized to program execution, with or without test ("without test" == default halt at runtime error).
+
+Tests and finding routes in maps (are a subset) Pathfinding.
 
 #### Program Composition
 ```
