@@ -36,6 +36,8 @@ Program execution without test is implicit test for runtime errors, defaulting t
 
 Tests and finding routes in maps (are a subset) Pathfinding.
 
+Stack machine represents a program as a list of tokens. Forth colon definition allows two or more tokens to be collapsed into one, where one or more tokens can be data or non-function. As such, tokens sharing a root function, with different parameters, can be categorized and compared. If they belong to the same category, various equivalence or distance functions can be applied to determine their characteristics, with respect to the preceding and subsequent tokens in the list, i.e. in relation to other functions in the program.
+
 #### Program Composition
 ```
 For j in word database  
