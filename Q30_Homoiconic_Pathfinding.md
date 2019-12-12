@@ -6,6 +6,11 @@
 - program modification
 - program composition
 
+https://github.com/udexon/Homoiconism/blob/master/Q23_Phos_Smashlet.md
+
+- We shall demonstrate how a token or a Phos or Forth word corresponds to a node (vertex) or an edge (line) in graph theory -- one of the most fundamental theories in mathematics that can be used to construct other mathematical theories as well as programming languages.
+
+- Relate graph theory and Phos word list to pathfinding.
 
 - Homoiconic Pathfinding (HIPF): Finding Alternative Routes in Map
 
