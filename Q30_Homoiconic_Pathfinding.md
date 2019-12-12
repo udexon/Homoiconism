@@ -1,6 +1,11 @@
 ### Homoiconic Pathfinding
 
-#### Pathfinding
+[Pathfinding](https://en.wikipedia.org/wiki/Pathfinding) and homoiconicity are two fundamental topics in computer science. We propose a procedure, called "homoiconic transformation", to translate program code written in any high level programming language (C/C++, Java, Python, JavaScript, PHP, etc.) into Forth-like Reverse Polish Notation, essentially a list of tokens, know as _word list_. Pathfinding algorithms are then applied to the word list, to model the following:
+
+- detection of runtime errors
+- program modification
+- program composition
+
 
 - Homoiconic Pathfinding (HIPF): Finding Alternative Routes in Map
 
