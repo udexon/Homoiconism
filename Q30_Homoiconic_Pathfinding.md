@@ -1,4 +1,24 @@
-### Homoiconic Token Debugging and Composition
+### Homoiconic Pathfinding
+
+#### Pathfinding
+
+- Homoiconic Pathfinding (HIPF): Finding Alternative Routes in Map
+
+Generalize Finding Alternative Routes in Map (FARM) to programming and problem solving using homoiconic transformation?
+
+Start with small goal: artificial maze, find alternative routes.
+
+Generalize goals to greater goals: find food, energy sources, money, land, resources, etc.
+
+- Homoiconism is a model that allows pathfinding to be generalized to greater goals in programming and problem solving.
+
+Program test is a special case of goal matching, defined by test function.
+
+Program execution without test is implicit test for runtime errors, defaulting the program to halt at runtime error. Modelling program execution using HTDC / HIPF allows pathfinding to be generalized to program execution, with or without test ("without test" == default halt at runtime error).
+
+Tests and finding routes in maps (are a subset) Pathfinding.
+
+Stack machine represents a program as a list of tokens. Forth colon definition allows two or more tokens to be collapsed into one, where one or more tokens can be data or non-function. As such, tokens sharing a root function, with different parameters, can be categorized and compared. If they belong to the same category, various equivalence or distance functions can be applied to determine their characteristics, with respect to the preceding and subsequent tokens in the list, i.e. in relation to other functions in the program.
 
 - Hypothesis 1: Human programmers learn programming by copying existing code, and learn how to debug; then use the acquired knowledge to compose new code. Hence the following Homoiconic Token Debugging and Composition (HTDC) algorithm:-
 
@@ -15,28 +35,6 @@ if Token i is another word list, recurse continuously into it.
 
 When recursion stops, find token j from database to replace token i, to eliminate errors. 
 ```
-
-#### Pathfinding
-
-- Finding Alternative Routes in Map
-
-- Homoiconic Pathfinding ?? (HIPF)??
-
-Generalize Finding Alternative Routes in Map (FARM) to programming and problem solving using HTDC?
-
-Start with small goal: artificial maze, find alternative routes.
-
-Generalize goals to greater goals: find food, energy sources, money, land, resources, etc.
-
-- Homoiconism is a model that allows FARM / pathfinding to be generalized to greater goals in programming and problem solving.
-
-Program test is a special case of goal matching, defined by test function.
-
-Program execution without test is implicit test for runtime errors, defaulting the program to halt at runtime error. Modelling program execution using HTDC / HIPF allows pathfinding to be generalized to program execution, with or without test ("without test" == default halt at runtime error).
-
-Tests and finding routes in maps (are a subset) Pathfinding.
-
-Stack machine represents a program as a list of tokens. Forth colon definition allows two or more tokens to be collapsed into one, where one or more tokens can be data or non-function. As such, tokens sharing a root function, with different parameters, can be categorized and compared. If they belong to the same category, various equivalence or distance functions can be applied to determine their characteristics, with respect to the preceding and subsequent tokens in the list, i.e. in relation to other functions in the program.
 
 #### Program Composition
 ```
