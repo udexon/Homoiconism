@@ -18,11 +18,13 @@ When recursion stops, find token j from database to replace token i, to eliminat
 
 #### Finding Alternative Routes in Map
 
-Generalize Finding Alternative Routes in Map to programming and problem solving using HTDC?
+Generalize Finding Alternative Routes in Map (FARM) to programming and problem solving using HTDC?
 
 Start with small goal: artificial maze, find alternative routes.
 
 Generalize goals to greater goals: find food, energy sources, money, land, resources, etc.
+
+- Homoiconism is a model that allows FARM to be generalized to greater goals in programming and problem solving.
 
 #### Program Composition
 ```
