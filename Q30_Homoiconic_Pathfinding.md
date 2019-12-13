@@ -6,6 +6,11 @@
 - program modification
 - program composition
 
+Incidentally, both pathfinding and homoiconic transformation can be attributed to Edsger Wybe Dijkstra, the legendary Dutch pioneer of computer science. It would be a significant topic of research to investigate if the ideas proposed in this article have been explored by Dijkstra himself or others.
+
+Conceptually or visually, it is tempting to represent the process of a human programmer composing a program, or metaprogramming, as a graph, of the similar nature the graph employed by Dijkstra in 1956 to determine the shortest distance between any two Dutch cities. This is because, if it can be done, then perhaps various theorems in graph theory can be applied to metaprogramming, potentially helping to advance computer science nearer to the final goal of Artificial General Intelligence.
+
+
 https://github.com/udexon/Homoiconism/blob/master/Q23_Phos_Smashlet.md
 
 - We shall demonstrate how a token or a Phos or Forth word corresponds to a node (vertex) or an edge (line) in graph theory -- one of the most fundamental theories in mathematics that can be used to construct other mathematical theories as well as programming languages.
