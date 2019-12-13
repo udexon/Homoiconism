@@ -17,14 +17,13 @@ Nevertheless, having identified these difficulties may serve as a good starting 
 
 Our plan is as follows:
 
-- develop rudimentary Dijkstra's type pathfinding in 2D or 3D using homoiconic transformation, i.e. to use Forth like (to be known as _Phos_) Reverse Polish Notation in stack machine shell (smashlet) implemented in any high level host programming language.
-
-- b 
-
 <ol type="a">
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+
+<li> We intend to develop rudimentary Dijkstra's type pathfinding in 2D or 3D using homoiconic transformation, i.e. to use Forth like (to be known as _Phos_) Reverse Polish Notation in stack machine shell (smashlet) implemented in any high level host programming language. This is analogous to human babies or children learning about the physical world and physical actions.  Using the analogy of human learning at different ages, we shall develop Phos word database (function database) accordingly. </li>
+
+<li> We wish to highlight our hypothesis that human programmers learn programming by copying, then modifying part of the code of a larger program. We will use this to model an Artificial General Intelligence (AGI) self, which is capable of performing metaprogramming using the Phos programming language outlined here. </li>
+
+<li>....</li>
 </ol>
 
 https://github.com/udexon/Homoiconism/blob/master/Q23_Phos_Smashlet.md
