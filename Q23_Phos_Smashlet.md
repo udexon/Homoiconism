@@ -57,13 +57,3 @@ Strictly, there is no line break in Forth and Phos type of stack machine program
 - [Unifying Programming and Mathematics](https://github.com/udexon/Homoiconism/blob/master/Q19_HIP_Advantages.md#3-unifying-programming-and-mathematics)
 
 <hr>
-
-Stack Machine Shell Language Engine Terminal (Smashlet)
-
-50 years old CEO can do it. 5 years old kid can do it.--> use this live example!! 
-
-Should write the outcome of Phos, one line of code to learn and share, learn mathematics by one line of code, within first paragraph of article.
-
-Readers have no patience.
-
-### Mastering Computer Programming and Abstract Mathematics _One Line At A Time_ with Phos Stack Machine Shell Language (Smashlet)
